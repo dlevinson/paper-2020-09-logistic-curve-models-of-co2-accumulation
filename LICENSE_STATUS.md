@@ -1,6 +1,6 @@
 # License Status: Logistic Curve Models Of CO2 Accumulation
 
-Generated: 2026-05-20 14:46:37 AEST
+Generated: 2026-05-20 15:23:47 AEST
 
 Recorded license/access note from the verified audit row: Findings article page inspected 2026-05-17 displays ccby-sa-4.0; Scripps source-data attribution required; author-created reproduction code license to be set consistently at upload.
 
