@@ -11,7 +11,7 @@
 
 ## Archive Status
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Package type: public data/code reproduction package
 - Rights status: likely clear with provenance
 - Human subjects status: none
@@ -54,7 +54,7 @@ The 2026 NOAA extension data and generated extension outputs are not included in
 
 Generated: 2026-05-17 08:40:30 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
