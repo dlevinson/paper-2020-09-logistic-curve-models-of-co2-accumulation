@@ -1,0 +1,5 @@
+row_id,source_path,path_exists,size_bytes,label,decision,reason
+paper-2020-09,/Users/dlev2617/Documents/Reproducibility/logistic-co2-accumulation/data/noaa_mlo_co2_monthly_2026_download.csv,yes,38556,post-paper extension input,not_copied,2026 NOAA extension data is useful for later testing but was not used in the 2020 paper.
+paper-2020-09,/Users/dlev2617/Documents/Reproducibility/logistic-co2-accumulation/2026_test_extension_outputs/tables/extension_observed_vs_fixed_models.csv,yes,8420,post-paper extension output,not_copied,"Generated 2020-2026 validation output, not part of the 2020 article evidence package."
+paper-2020-09,/Users/dlev2617/Documents/Reproducibility/logistic-co2-accumulation/2026_test_extension_outputs/figures/extension_co2_s_curve_2020_2026.png,yes,203121,post-paper extension output,not_copied,"Generated 2020-2026 validation figure, not part of the 2020 article evidence package."
+paper-2020-09,/Users/dlev2617/Documents/Reproducibility/logistic-co2-accumulation/.gitignore,yes,72,development housekeeping,not_copied,Local ignore file is not needed in the archive payload.

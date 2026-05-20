@@ -1,0 +1,9 @@
+# local-package-git-hygiene:start
+.DS_Store
+._*
+__pycache__/
+*.pyc
+# local-package-git-hygiene:end
+# Local audit reference PDFs are kept on disk but excluded from public GitHub uploads.
+paper/*.pdf
+paper/*.PDF

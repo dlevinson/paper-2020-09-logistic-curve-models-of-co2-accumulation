@@ -1,0 +1,11 @@
+field,value
+usable_observations,747
+first_year_month,1958-03
+last_year_month,2020-05
+first_decimal_year,1958.202700
+last_decimal_year,2020.371600
+minimum_filled_ppm,312.43
+maximum_filled_ppm,417.16
+paper_model_years,1960; 1970; 1980; 1990; 2000; 2010; 2020
+paper_baseline_ppm,280
+paper_source_url,https://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/in_situ_co2/monthly/monthly_in_situ_co2_mlo.csv
