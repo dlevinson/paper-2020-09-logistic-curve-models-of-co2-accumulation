@@ -1,5 +1,9 @@
 # Logistic Curve Models Of CO2 Accumulation
 
+## Contribution
+
+This paper tests whether logistic S-curves provide stable forecasts of atmospheric carbon-dioxide accumulation as additional years of the Keeling Curve become available. Repeated historical fits show that estimated saturation levels vary substantially across model years, while recent estimates consistently imply continued accumulation absent a major external shock.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2020-09`
