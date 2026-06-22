@@ -26,4 +26,4 @@ Generated: 2026-05-20 15:23:47 AEST
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
 - Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- Confirm finality and license before repository creation.
+- Repository uploaded; the operative license boundary is recorded in `LICENSE.md`.
